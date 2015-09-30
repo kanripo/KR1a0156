@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易漢學
-#+DATE: 2015-09-23 09:35:44
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:00:47.987948
+#+PROPERTY: ID KR1a0156
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1a0156_WYG_006-1a>¶
 欽定四庫全書¶
 　易漢學卷六¶
@@ -166,4 +168,3 @@
 　及月先師不改故亦不改也朱子發卦圖合鄭前後¶
 　注而一之學者幾不能辨余特為改正一目了然矣¶
 　易漢學卷六¶
-

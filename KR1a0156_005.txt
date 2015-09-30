@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易漢學
-#+DATE: 2015-09-23 09:35:44
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:00:47.971679
+#+PROPERTY: ID KR1a0156
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0156_WYG_005-1a>¶
 欽定四庫全書¶
 　易漢學卷五¶
@@ -308,4 +310,3 @@
 　¶
 　¶
 　易漢學卷五¶
-
